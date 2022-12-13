@@ -1,0 +1,1 @@
+Created a Snake using Java used Java Swing Library and AWT Library to add basic functionalities to the game such as movements,graphics,locating food,checking collisions, displaying game over messages and IDE used to prepare this was IntelliJ IDEA Community Edition 2022.3
